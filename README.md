@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm jyothiPriyaBhuvanagiri</h1>
 <h3 align="center">I am a Master student in TU Chemnitz</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Hello+Dribbble%21&utm_medium=Social_Share">
+
 
 - 🌱 I’m currently learning **New Frameworks**
 
