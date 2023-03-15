@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **New Frameworks**
 
-- 👯 I’m looking to collaborate on **learning coding**
+- 👯 I’m looking to collaborate on **learn coding**
 
 - 💬 Ask me about **Anything**
 
