@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm jyothiPriyaBhuvanagiri</h1>
-<h3 align="center">I am a Master student in TU Chemnitz</h3>
+<h3 align="center">I am a Master student at TU Chemnitz</h3>
 
 
 - 🌱 I’m currently learning **New Frameworks**
