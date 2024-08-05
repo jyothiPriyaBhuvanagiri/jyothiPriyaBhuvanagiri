@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think i am curious to learn**
 
-- my website 
+-    my website https://jyothipriyabhuvanagiri.github.io/personal_website/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
