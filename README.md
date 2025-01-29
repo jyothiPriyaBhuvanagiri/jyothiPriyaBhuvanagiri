@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bjyothipriya.999@gmail.com**
 
-- ⚡ Fun fact **I think I am curious to learn**
-
 -  😄 My website **https://jyothipriyabhuvanagiri.github.io/personal_website/**
 
 <h3 align="left">Connect with me:</h3>
