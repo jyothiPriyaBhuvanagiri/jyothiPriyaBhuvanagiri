@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **bjyothipriya.999@gmail.com**
+  
+- 🔭 Another github account **https://github.com/priya-tik**
 
 -  😄 My website **https://jyothipriyabhuvanagiri.github.io/personal_website/**
 
